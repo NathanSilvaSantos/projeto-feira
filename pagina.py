@@ -10,8 +10,6 @@ app = Flask(__name__)
 
 value = "Olá"
 
-@app.route('/pagina.py',)
-@app.route('/',)
 def treinar():
     for arquivo in os.listdir(r'chats'): # percorrer todos os arquivos
 	    linhas = open(r'chats/' + arquivo, 'r').readlines() # ler todas as linhas
