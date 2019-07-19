@@ -27,7 +27,8 @@ def hello():
         else:
             return render_template('index.html', **{'alan': 'Desculpe, ainda não sei responder essa pergunta'}) # Resposta padrão 
     except Exception as e:
-        return render_template('index.html', **{'Alan': 'Ocorreu um erro durante a execução:'+e}) # Retorna mensagem de erro
+        erro = 'Ocorreu um erro durante a execução:',e
+        return render_template('index.html',**{'Alan': erro}) # Retorna mensagem de erro
 
 
 if __name__ =='__main__':
