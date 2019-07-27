@@ -1,20 +1,69 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta charset="utf-8">
-    <title>hello</title>
-</head>
-<body>
-    <h1>Hello World</h1>
-    <ul>
-        <li>{{ alan }}</li>
-    </ul>
-    <form action="../pagina.py" method="get">
-        <input type="text" name="mensagem">
-        <button type="submit">Enviar</button>
-    </form>
-</body>
+	<head>
+		<meta charset="utf-8">
+	    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<title>ALAN - Assistente Virtual Educacional</title>
+		<link rel="icon" href="{{ url_for('static', filename='favicon.png')}}">
+
+	    <!-- Bootstrap -->
+	    <link href="{{ url_for('static', filename='css/bootstrap.min.css')}}" rel="stylesheet">
+	    <link href="{{ url_for('static', filename='estilos.css')}}" rel="stylesheet">
+
+	    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+	    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	    <!--[if lt IE 9]>
+	      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+	      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	    <![endif]-->
+
+	</head>
+
+	<body>
+
+        <div class="alan">
+
+            <!-- CABEÇALHO DO CHAT -->
+            <div class="top_menu">
+                <div class="title">Chat - Alan Assistente Virtual Educacional</div>
+            </div>
+            <!-- /CABEÇALHO DO CHAT-->
+
+            <!-- AQUI É ONDE FICA AS MENSAGENS -->
+            <ul class="messages">
+
+                 <div class="msg_sent b">
+                    <p class="mensagem">{{ user }}</p>              
+                 </div>
+
+                 <div class="msg_sent a">
+                    <p class="mensagem">{{ alan}} </p>                         
+                 </div>
+                
+                
+            </ul>
+            <!-- AQUI TERMINA O LOCAL DE MENSAGENS -->
+
+            <!-- AQUI É ONDE SE ESCREVE E ENVIA AS MENSAGENS -->
+            <form action="../pagina.py" method="get">
+            <div class="bottom_wrapper clearfix">
+
+                <div class="message_input_wrapper"><!-- ESSA DIV É O LOCAL DE ESCREVER A MENSAGEM -->
+                    <input class="message_input" placeholder="Digite aqui sua mensagem..." name="mensagem">
+                </div>
+
+                <div class="send_message"><!-- ESSA DIV É O BOTÃO DE ENVIAR -->
+
+                    <div class="icon"></div>
+                    <div class="text" type="submit">Enviar</div>
+
+                </div>
+            </div>
+            </form>
+            <!-- AQUI TERMINA ONDE ESCREVE E ENVIA AS MENSAGENS -->
+
+	</body>
+
 </html>

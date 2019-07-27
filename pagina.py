@@ -23,12 +23,12 @@ def hello():
 
         resposta = alan.get_response(msg) # gera uma resposta
         if float(resposta.confidence) >= 0.3: # verifica se a resposta tem mais de 30% de confiança
-            return render_template('index.html', **{'alan': resposta}) # retorna a resposta
+            return render_template('index.html', alan=resposta, user=value) # retorna a resposta
         else:
-            return render_template('index.html', **{'alan': 'Desculpe, ainda não sei responder essa pergunta'}) # Resposta padrão 
+            return render_template('index.html', alan='Desculpe, ainda não sei responder essa pergunta',user=value) # Resposta padrão 
     except Exception as e:
         erro = 'Ocorreu um erro durante a execução:',e
-        return render_template('index.html',**{'Alan': erro}) # Retorna mensagem de erro
+        return render_template('index.html',alan=erro,user=value) # Retorna mensagem de erro
 
 
 if __name__ =='__main__':
