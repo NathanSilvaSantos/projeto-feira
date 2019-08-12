@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request #importa os módulos do flask
+from flask import Flask, render_template, request, jsonify, make_response #importa os módulos do flask
 from chatterbot import ChatBot # importa o chatbot
 from chatterbot.trainers import ListTrainer # importa o método de treino
 import os
@@ -15,9 +15,8 @@ for arquivo in os.listdir(r'chats'): # percorrer todos os arquivos
 	treinador.train(linhas) # treina o conteúdo das linhas
 
 
-@app.route('/pagina.py',)
-@app.route('/',)
-def hello():
+@app.route('/<string:user>')
+def hello(user):
     try:
         msg = request.args.get('mensagem', value) # recebe a mensagem do usuário
 
@@ -30,6 +29,12 @@ def hello():
         erro = 'Ocorreu um erro durante a execução:',e
         return render_template('index.html',alan=erro,user=value) # Retorna mensagem de erro
 
+@app.route('/api/<string:user>')
+def chat(user):
+    usuario = {'alan': user}
+    resposta = make_response(jsonify(usuario))
+    resposta.headers['Access-Control-Allow-Origin'] = '*'
+    return resposta, 200
 
 if __name__ =='__main__':
-    app.run() # Inicia a aplicação
+    app.run() # Executa a aplicação
