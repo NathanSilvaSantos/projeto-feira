@@ -18,23 +18,20 @@ for arquivo in os.listdir(r'chats'): # percorrer todos os arquivos
 @app.route('/<string:user>')
 def hello(user):
     try:
-        msg = request.args.get('mensagem', value) # recebe a mensagem do usuário
-
-        resposta = alan.get_response(msg) # gera uma resposta
-        if float(resposta.confidence) >= 0.3: # verifica se a resposta tem mais de 30% de confiança
-            return render_template('index.html', alan=resposta, user=value) # retorna a resposta
+        msg = alan.get_response(user) # gera uma resposta
+        if float(msg.confidence) >= 0.3: # verifica se a resposta tem mais de 30% de confiança
+            resposta = make_response(str(msg))
+            resposta.headers['Access-Control-Allow-Origin'] = '*'
+            return resposta, 200 # Retorna a resposta do bot
         else:
-            return render_template('index.html', alan='Desculpe, ainda não sei responder essa pergunta',user=value) # Resposta padrão 
+            resposta = make_response('Desculpe, ainda não sei responder essa pergunta')
+            resposta.headers['Access-Control-Allow-Origin'] = '*'
+            return resposta, 200 # Resposta padrão 
     except Exception as e:
         erro = 'Ocorreu um erro durante a execução:',e
-        return render_template('index.html',alan=erro,user=value) # Retorna mensagem de erro
-
-@app.route('/api/<string:user>')
-def chat(user):
-    usuario = {'alan': user}
-    resposta = make_response(jsonify(usuario))
-    resposta.headers['Access-Control-Allow-Origin'] = '*'
-    return resposta, 200
+        resposta = make_response(erro)
+        resposta.headers['Access-Control-Allow-Origin'] = '*'
+        return resposta, 200 # Retorna mensagem de erro
 
 if __name__ =='__main__':
     app.run() # Executa a aplicação
