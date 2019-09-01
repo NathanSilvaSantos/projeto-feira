@@ -11,8 +11,7 @@ alan = ChatBot(
             'default_response': 'Desculpe, ainda não sei responder essa questão.',
             'maximum_similarity_threshold': 0.50
         },
-        'chatterbot.logic.MathematicalEvaluation',
-        'chatterbot.logic.TimeLogicAdapter'
+        'chatterbot.logic.MathematicalEvaluation'
     ],
     database_uri='sqlite:///db.sqlite3'
 ) # inicia o bot
