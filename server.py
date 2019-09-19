@@ -1,19 +1,18 @@
 from flask import Flask, make_response #importa os módulos do flask
 from chatterbot import ChatBot # importa o chatbot
-import os
 
 alan = ChatBot(
-    'Alan',
-    storage_adapter='chatterbot.storage.SQLStorageAdapter',
+    'Alan', # nome do chatbot
+    storage_adapter='chatterbot.storage.SQLStorageAdapter', # define a linguagem do banco de dados
     logic_adapters=[
         {
-            'import_path': 'chatterbot.logic.BestMatch',
-            'default_response': 'Desculpe, ainda não sei responder essa questão.',
-            'maximum_similarity_threshold': 0.50
+            'import_path': 'chatterbot.logic.BestMatch', # seleciona sempre a melhor resposta
+            'default_response': 'Desculpe, ainda não sei responder essa questão.', # resposta padrão
+            'maximum_similarity_threshold': 0.50 # porcentagem máxia de confiança para ser chamada a resposta padrão
         },
-        'chatterbot.logic.MathematicalEvaluation'
+        'chatterbot.logic.MathematicalEvaluation' # permite que o chatbot faça cálculos simples
     ],
-    database_uri='sqlite:///db.sqlite3'
+    database_uri='sqlite:///db.sqlite3' # define o banco de dados
 ) # inicia o bot
 
 app = Flask(__name__) # inicia a aplicação flask
