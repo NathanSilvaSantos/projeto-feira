@@ -1,26 +1,37 @@
-o que Ã© microbiologia?
-A microbiologia Ã© o ramo da Biologia que estuda os microrganismos.
-o que sÃ£o microrganismos?
-Os microrganismos sÃ£o seres vivos de tamanho pequeno, cujas dimensÃµes nÃ£o permitem que sejam observados a olho nu pelo homem. Assim, eles sÃ³ podem ser visualizados ao microscÃ³pio.
+o que é microbiologia?
+A microbiologia é o ramo da Biologia que estuda os microrganismos.
+o que são microrganismos?
+Os microrganismos são seres vivos de tamanho pequeno, cujas dimensões não permitem que sejam observados a olho nu pelo homem. Assim, eles só podem ser visualizados ao microscópio.
 com o que os microrganismos contribuem?
-De modo geral, os microrganismos contribuem na fertilizaÃ§Ã£o do solo, reciclagem de substÃ¢ncias e participam de ciclos biogeoquÃ­micos. Ainda podem ser usados na fabricaÃ§Ã£o de produtos como iogurte, vinhos, queijos, vinagres e pÃ£es.
-o que Ã© ecologia?
-A Ecologia Ã© a parte da Biologia que estuda as relaÃ§Ãµes dos seres vivos entre si e destes com o meio. O termo, que foi usado pela primeira vez em 1866 por Ernest Haeckel, vem da junÃ§Ã£o de duas palavras gregas: Oikos, que significa casa, e logos, que quer dizer estudo. Assim sendo, ecologia significa o â€œestudo da casaâ€ ou o â€œestudo do habitat dos seres vivosâ€.
+De modo geral, os microrganismos contribuem na fertilização do solo, reciclagem de substâncias e participam de ciclos biogeoquímicos. Ainda podem ser usados na fabricação de produtos como iogurte, vinhos, queijos, vinagres e pães.
+o que é ecologia?
+A Ecologia é a parte da Biologia que estuda as relações dos seres vivos entre si e destes com o meio. O termo, que foi usado pela primeira vez em 1866 por Ernest Haeckel, vem da junção de duas palavras gregas: Oikos, que significa casa, e logos, que quer dizer estudo. Assim sendo, ecologia significa o “estudo da casa” ou o “estudo do habitat dos seres vivos”.
 com o que a ecologia se preocupa?
-a Ecologia preocupa-se com o entendimento do funcionamento de toda a natureza. Assim como vÃ¡rios outros campos de estudo da Biologia, ela nÃ£o Ã© uma ciÃªncia isolada. Para entendÃª-la, Ã© necessÃ¡rio, por exemplo, conhecer um pouco de EvoluÃ§Ã£o, GenÃ©tica, Biologia Molecular, Fisiologia e Anatomia.
-o que Ã© a autoecologia?
-Na autoecologia, o estudo volta-se para uma determinada espÃ©cie ou indivÃ­duo, analisando-se, principalmente, seu comportamento e os mecanismos adaptativos que garantem a sua sobrevivÃªncia em determinado meio.
+a Ecologia preocupa-se com o entendimento do funcionamento de toda a natureza. Assim como vários outros campos de estudo da Biologia, ela não é uma ciência isolada. Para entendê-la, é necessário, por exemplo, conhecer um pouco de Evolução, Genética, Biologia Molecular, Fisiologia e Anatomia.
+o que é a autoecologia?
+Na autoecologia, o estudo volta-se para uma determinada espécie ou indivíduo, analisando-se, principalmente, seu comportamento e os mecanismos adaptativos que garantem a sua sobrevivência em determinado meio.
 o que faz a sinecologia?
-A sinecologia faz uma anÃ¡lise ampla, analisando grupos de organismos que interagem entre si e com o meio.
-populaÃ§Ã£o
-Conjunto de organismos de uma mesma espÃ©cie que vivem juntos em uma determinada Ã¡rea e apresentam maiores chances de reproduzir-se entre si do que com outros indivÃ­duos de outras populaÃ§Ãµes.
+A sinecologia faz uma análise ampla, analisando grupos de organismos que interagem entre si e com o meio.
+população
+Conjunto de organismos de uma mesma espécie que vivem juntos em uma determinada área e apresentam maiores chances de reproduzir-se entre si do que com outros indivíduos de outras populações.
 Comunidades
-Conjunto de populaÃ§Ãµes de uma determinada regiÃ£o.
+Conjunto de populações de uma determinada região.
 Ecossistema
-Um complexo de seres viventes (e vÃ­rus) e ambientes fÃ­sicos onde estes habitam Ã© denominado ecossistema. Assim, hÃ¡ vÃ¡rios ecossistemas existentes e relacionados entre si. Por exemplo: um pequeno lago de uma floresta Ã© considerado um ecossistema, onde habitam pequenos organismos e outros maiores â€“ e a prÃ³pria floresta Ã©, tambÃ©m, um ecossistema.
+Um complexo de seres viventes (e vírus) e ambientes físicos onde estes habitam é denominado ecossistema. Assim, há vários ecossistemas existentes e relacionados entre si. Por exemplo: um pequeno lago de uma floresta é considerado um ecossistema, onde habitam pequenos organismos e outros maiores – e a própria floresta é, também, um ecossistema.
 Biosfera
-NÃ­vel mais amplo e autossuficiente que corresponde a todos os seres vivos do planeta, abarcando as relaÃ§Ãµes deles entre si e com o meio ambiente. Independente do nÃ­vel de organizaÃ§Ã£o estudado, compreender o meio em que o organismo vive Ã© essencial no estudo da ecologia. Assim sendo, ao escolher uma espÃ©cie para anÃ¡lise, os ecÃ³logos preocupam-se em conhecer seu habitat e seu nicho ecolÃ³gico, ou seja, o local onde a espÃ©cie vive e seu papel naquela comunidade.
-por que Ã© importante estudar Ecologia?
-Ao estudar a Ecologia, os ecÃ³logos conseguem visualizar de maneira clara como as espÃ©cies interagem entre si e conseguem coexistir em determinado ambiente, alÃ©m de conseguir informaÃ§Ãµes para a compreensÃ£o dos motivos que levam uma espÃ©cie a viver em uma Ã¡rea e a ausentar-se de outros locais. TambÃ©m Ã© possÃ­vel compreender como uma espÃ©cie Ã© capaz de influenciar uma determinada comunidade e os impactos gerados por ela. Por meio dessas anÃ¡lises, Ã© possÃ­vel fazer previsÃµes a respeito do futuro de determinadas espÃ©cies e as consequÃªncias das mudanÃ§as nos padrÃµes de uma comunidade.
-o que sÃ£o relaÃ§Ãµes ecolÃ³gicas?
-As relaÃ§Ãµes ecolÃ³gicas sÃ£o interaÃ§Ãµes entre os seres vivos que vivem em um determinado ambiente. Essas interaÃ§Ãµes podem trazer benefÃ­cios ou nÃ£o para os envolvidos.
+Nível mais amplo e autossuficiente que corresponde a todos os seres vivos do planeta, abarcando as relações deles entre si e com o meio ambiente. Independente do nível de organização estudado, compreender o meio em que o organismo vive é essencial no estudo da ecologia. Assim sendo, ao escolher uma espécie para análise, os ecólogos preocupam-se em conhecer seu habitat e seu nicho ecológico, ou seja, o local onde a espécie vive e seu papel naquela comunidade.
+por que é importante estudar Ecologia?
+Ao estudar a Ecologia, os ecólogos conseguem visualizar de maneira clara como as espécies interagem entre si e conseguem coexistir em determinado ambiente, além de conseguir informações para a compreensão dos motivos que levam uma espécie a viver em uma área e a ausentar-se de outros locais. Também é possível compreender como uma espécie é capaz de influenciar uma determinada comunidade e os impactos gerados por ela. Por meio dessas análises, é possível fazer previsões a respeito do futuro de determinadas espécies e as consequências das mudanças nos padrões de uma comunidade.
+o que são relações ecológicas?
+As relações ecológicas são interações entre os seres vivos que vivem em um determinado ambiente. Essas interações podem trazer benefícios ou não para os envolvidos.
+o que é evolução
+Evolução é o processo através do qual ocorrem as mudanças ou transformações nos seres vivos ao longo do tempo, dando origem a espécies novas.A evolução tem suas bases fortemente corroboradas pelo estudo comparativo dos organismos, sejam fósseis ou atuais.
+o que é homologia?
+Por homologia entende-se semelhança entre estruturas de diferentes organismos, devida unicamente a uma mesma origem embriológica. As estruturas homólogas podem exercer ou não a mesma função. O braço do homem, a pata do cavalo, a asa do morcego e a nadadeira da baleia são estruturas homólogas entre si, pois todas têm a mesma origem embriológica.
+o que é analogia?
+Refere-se à semelhança morfológica entre estruturas, em função de adaptação à execução da mesma função. As asas dos insetos e das aves são estruturas diferentes quanto à origem embriológica, mas ambas estão adaptadas à execução de uma mesma função: o vôo. São, portanto, estruturas análogas.As estruturas análogas não refletem por si só qualquer grau de parentesco. Elas fornecem indícios da adaptação de estruturas de diferentes organismos a uma mesma variável ecológica. Quando organismos não intimamente aparentados apresentam estruturas semelhantes exercendo a mesma função, dizemos que eles sofreram evolução convergente.
+o que é evolução convergente?
+A evolução convergente ou convergência evolutiva é caracterizada pela adaptação de diferentes organismos a uma condição ecológica igual, assim, as formas do corpo do golfinho, dos peixes, especialmente tubarões, e de um réptil fóssil chamado ictiossauro são bastante semelhantes, adaptadas à natação. Neste caso, a semelhança não é sinal de parentesco, mas resultado da adaptação desses organismos ao ambiente aquático.
+o que é irradiação adaptativa?
+Ela é caracterizada pela diferenciação de organismos a partir de um ancestral comum dando origem a vários grupos diferentes adaptados a explorar ambientes diferentes.
+
