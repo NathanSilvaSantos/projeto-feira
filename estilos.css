@@ -5,7 +5,10 @@
   width: 700px;
   float: left;
   margin-top: 10px;
+}
 
+.a:last-child {
+  margin-bottom: 100px;
 }
 
 .b {
@@ -173,7 +176,7 @@ body {
   width: 100%;
   background-color: #fff;
   padding: 20px 20px;
-  position: absolute;
+  position: fixed;
   bottom: 0;
 }
 .bottom_wrapper .message_input_wrapper {

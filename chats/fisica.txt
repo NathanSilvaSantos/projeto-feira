@@ -1,16 +1,16 @@
-o que é mecanica?
+mecanica
 A Mecânica é o ramo da Física responsável pelo estudo dos movimentos. Essa área pode explicar desde o movimento de pessoas e carros até o movimento dos planetas ao redor do Sol.
-o que é cinemática?
+cinemática
 A Cinemática é a parte da Mecânica que faz uma análise matemática dos movimentos, mostrando equações e gráficos que podem expressá-los e diferenciá-los. A Cinemática não se preocupa com as causas dos movimentos, mas somente em analisar o movimento em si, entendendo-o e propondo padrões matemáticos.
-o que é movimento uniforme?
+movimento uniforme
 O movimento uniforme ocorre quando um móvel desloca-se em linha reta e com velocidade constante. No movimento uniforme, o móvel percorre espaços iguais em intervalos de tempo iguais.
 exemplo de movimento uniforme
 Imagine a seguinte situação: um veículo que se move em movimento uniforme, com velocidade de 20 km/h, terá se deslocado de sua posição inicial em 10 km, em um intervalo de tempo de 0,5 h (30 minutos). Em 1h, esse mesmo veículo terá se distanciado de sua posição inicial em 20 km.
-o que é aceleração escalar?
-Aceleração escalar média é uma grandeza física que mede a variação da velocidade (?v) de um móvel em um determinado intervalo de tempo (?t). A unidade de aceleração no Sistema Internacional de unidades é o m/s².
+aceleração escalar
+Aceleração escalar média é uma grandeza física que mede a variação da velocidade de um móvel em um determinado intervalo de tempo. A unidade de aceleração no Sistema Internacional de unidades é o m/s².
 função horária da velocidade
 Quando um móvel acelera de forma constante, isto é, quando a sua velocidade muda de forma igual para intervalos de tempos iguais, podemos determinar a sua velocidade final (v) após um intervalo de tempo de aceleração constante (a) usando a sua função horária da velocidade, v = v0 + at.
-o que é um movimento circular?
+movimento circular
 Movimento circular é o movimento de rotação de um corpo em torno de um eixo ao longo de uma trajetória circular de raio constante. Esse movimento pode ser uniforme, caso a velocidade de rotação seja constante, ou variado, caso sua velocidade sofra variações ao longo do tempo.
 quando ocorre um movimento circular?
 O movimento circular ocorre quando uma força de módulo constante é aplicada em uma direção perpendicular à velocidade de um móvel, de forma que o módulo dessa velocidade mantenha-se constante, alterando somente sua direção e seu sentido. A força aplicada nesse caso é denominada força centrípeta.
@@ -22,13 +22,13 @@ movimento circular uniformemente variado
 O MCUV é um movimento circular que ocorre quando a velocidade angular do móvel varia de forma constante com o tempo. Isso significa que a rotação ocorre na presença de uma aceleração angular.
 dinâmica
 A Dinâmica é a parte da Mecânica que analisa as causas que dão origem aos movimentos. Como o movimento é originado por forças, podemos dizer que a Dinâmica é o estudo das forças. Dentro desse estudo, destacam-se as leis de Newton e suas aplicações, o estudo da energia e o impulso e a quantidade de movimento.
-o que é impulso
+impulso
 Impulso é a grandeza física que relaciona a força que atua sobre um corpo e o intervalo de tempo que ela atua sobre o mesmo.
-o que é quantidade de movimento?
+quantidade de movimento
 Imagine um corpo de massa m, que num determinado instante t possua velocidade V, por definição a quantidade de movimento é o produto entre essas duas grandezas, massa e velocidade. Como a velocidade é uma grandeza vetorial, por consequência a quantidade de movimento também é.
 teorema Impulso
 O teorema do impulso – quantidade de movimento diz que o impulso da resultante das forças que atuam sobre um corpo, num determinado intervalo de tempo, é igual à variação da quantidade de movimento do corpo no mesmo intervalo de tempo.
-o que é Termologia?
+termologia
 Termologia é o estudo científico dos fenômenos relacionados ao calor e à temperatura, como transferência de calor, equilíbrio térmico, transformações sofridas por gases, mudanças de estado físico, etc.
 temperatura
 Temperatura é a medida do grau de agitação das partículas que constituem um corpo. A temperatura de um corpo é diretamente proporcional à velocidade com que seus átomos e moléculas vibram, rotacionam ou, até mesmo, transladam. A temperatura é uma das grandezas fundamentais da natureza, juntamente com o metro e com o segundo, por exemplo. No sistema internacional de unidades (SI), a unidade utilizada para a medida da temperatura é o Kelvin (K). Essa escala de temperatura é considerada absoluta, pois não admite valores negativos e pode ser determinada diretamente pela vibração térmica dos átomos. Por isso, dizemos que a menor temperatura possível é o 0 K, também conhecido como zero absoluto.
@@ -40,7 +40,7 @@ escala Fahrenheit
 A escala Fahrenheit, por sua vez, é usada em poucos países, como Estados Unidos e Inglaterra. Foi desenvolvida para que o ponto de fusão da água seja igual a 32 ºF. Assim, mesmo atingindo baixas temperaturas, é improvável que se observem temperaturas negativas em países que utilizam essa escala. A temperatura de ebulição da água em Fahrenheit é de 212 ºF.
 escala Kelvin
 A escala Kelvin foi baseada na agitação térmica de átomos de hélio de forma que, ao atingirem o repouso total, atribui-se a esses átomos a temperatura de 0 K. Hoje em dia, sabemos que essa baixíssima temperatura é, na verdade, inalcançável.
-o que é calor?
+calor
 Dizemos que calor é a energia térmica transferida entre corpos que se encontram em temperaturas diferentes, sendo, portanto, uma forma de energia. Além disso, o calor sempre transita do corpo de maior temperatura para os corpos de menor temperatura, até que se estabeleça o equilíbrio térmico.
 calor sensível
 é a forma de calor responsável pela mudança de temperatura em um corpo. Quando um corpo recebe calor sensível, sua temperatura aumenta; quando o mesmo corpo cede calor sensível, sua temperatura cai.
@@ -48,29 +48,29 @@ calor latente
 é a quantidade de calor que deve ser transferida para que um corpo ou uma substância mude de estado físico. Quando um corpo encontra-se na temperatura de ebulição ou de fusão, por exemplo, sua temperatura não varia, mesmo que ele continue exposto a uma fonte de calor. Não há mudanças de calor quando um corpo troca calor latente, apenas mudanças de estados físicos. Por isso, dizemos que ele recebe calor latente.
 dilatação térmica
 A dilatação térmica ocorre quando um corpo recebe ou cede grandes quantidades de calor. Além da mudança de temperatura ou do seu estado de agregação (estado físico), a passagem de calor para um corpo pode ocasionar mudanças em suas dimensões. A dilatação térmica depende da variação de temperatura sofrida pelo corpo, além do seu coeficiente de dilatação linear, superficial e volumétrico.
-o que é termodinâmica?
+termodinâmica
 A Termodinâmica é uma importante área da Termologia que estuda as relações entre calor, trabalho, temperatura e outras grandezas, como pressão, volume, etc. É responsável pelo estabelecimento de leis que regem todas as transformações que podem ser sofridas pela matéria, como a lei da conservação da energia, também conhecida como primeira lei da Termodinâmica.
 quais as três leis da termodinâmica?
 Lei zero da Termodinâmica: é a lei do equilíbrio térmico. Essa lei fala que todos os corpos tendem a trocar calor até atingirem o equilíbrio térmico. Primeira lei da Termodinâmica: é a lei da conservação da energia. Essa lei afirma que todo o calor recebido por um sistema durante um processo termodinâmico pode ser convertido em trabalho ou em aumento de sua energia interna.Segunda lei da Termodinâmica: é a lei da entropia. Essa lei afirma que todos os sistemas que recebem calor tendem a alcançar níveis cada vez menores de organização.Terceira lei da Termodinâmica: é a lei do zero absoluto. Essa lei nos diz que o zero absoluto é, na verdade, inatingível. Por mais frio que esteja um corpo, ele nunca estará a 0 K.
-O que é eletricidade?
+eletricidade
 A Eletricidade é o movimento, usualmente de elétrons, produzido a partir de dois pontos de um condutor. É, em termos gerais, a área da Física que estuda os fenômenos causados pelo trabalho das cargas elétricas.
-o que é eletricidade estática?
+eletricidade estática
 A eletricidade estática é o processo de concentração de cargas elétricas em repouso que, a partir do contato ou aproximação com outro corpo se atrita e, transferindo carga para esse corpo, manifesta-se.
 qual a relação entre eletricidade e magnetismo?
 Uma vez que o magnetismo tem a capacidade de atrair corpos, a eletricidade, por sua vez, produz um efeito magnético na medida em que está sujeita a condutores que permitem a sua movimentação.
-o que é eletrostática?
+eletrostática
 Eletrostática é a parte da área da eletricidade que estuda as cargas elétricas sem movimento, ou seja, em estado de repouso.
 o que faz uma blindagem eletrostática?
 A blindagem eletrostática torna o campo elétrico nulo. Isso acontece em decorrência da distribuição de cargas elétricas em excesso num condutor. As cargas de mesmo sinal tem a tendência de se afastar até que atingem o repouso.
-o que é força elétrostática?
+força elétrostática
 Força eletrostática é a força de interação eletrostática entre duas cargas elétricas através da atração e da repulsão.
-o que é energia eletrostática?
+energia eletrostática
 Energia eletrostática ou energia potencial elétrica é a energia produzida pelo excesso de cargas elétricas em atrito.
 campo elétrico
 O campo elétrico desempenha a função de transmissor das interações entre cargas elétricas, podendo ser de afastamento ou de aproximação, de acordo com o sinal da carga que o produziu.
 carga elétrica
 A carga elétrica é um conceito físico que determina as interações eletromagnéticas dos corpos eletrizados.As cargas elétricas são o resultado da atração ou repulsão das cargas. Cargas semelhantes se repulsam, enquanto as contrárias se atraem.
-o que é eletrodinâmica?
+eletrodinâmica
 Eletrodinâmica é a parte da física que estuda o aspecto dinâmico da eletricidade, ou seja, o movimento constante das cargas elétricas.
 corrente elétrica
 A corrente elétrica é a carga elétrica que está em movimento. Esse movimento é ordenado e insere-se dentro de um sistema condutor, cujas cargas apresentam uma diferença de potencial (ddp). Isso quer dizer que há cargas positivas e negativas, sem as quais não existe corrente elétrica.
@@ -78,19 +78,19 @@ resistência elétrica
 Resistência Elétrica é a capacidade de um condutor se opor e dificultar a passagem da corrente elétrica. Isto é conseguido através de resistores que transformam a energia elétrica em energia térmica.
 potência elétrica
 Potência elétrica é definida como a rapidez com que um trabalho é realizado. Ou seja, é a medida do trabalho realizado por uma unidade de tempo. A unidade de potência no sistema internacional de medidas é o watt (W), em homenagem ao matemático e engenheiro James Watts que aprimorou a máquina à vapor.
-o que é eletromagnetismo?
+eletromagnetismo
 Eletromagnetismo é o ramo da física que estuda a relação entre as forças da eletricidade e do magnetismo como um fenômeno único. Ele é explicado pelo campo magnético.
 qual a origem do eletromagnetismo?
 Michael Faraday (1791-1867) descobriu os efeitos elétricos produzidos pelo magnetismo. Através desses efeitos, chamados de indução eletromagnética, ele explicou a natureza e as propriedades dos campos magnéticos. Faraday explicou que o campo magnético é produzido pelas cargas elétricas geradas a partir do atrito entre os corpos que, por sua vez, sofrem atração ou repulsão.
-o que é magnetismo?
+magnetismo
 Magnetismo é a propriedade de atração e repulsão de determinados metais e ímãs, que apresentam um polo positivo e outro negativo, caracterizados pelas “forças dipolo”. Dessa forma, a propriedade chamada de “dipolo magnético” informa que os polos iguais se repelem e os polos opostos se atraem.
 imã
 O ímã, íman ou magneto é um corpo magnético (ferros magnetizados, rochas magnéticas) dipolo, ou seja, possui dois polos. Um dos polos é positivo e o outro é negativo. Eles possuem a propriedade de atrair outros corpos ferromagnéticos. São encontrados na natureza, em alguns minerais com propriedade magnéticas, por exemplo, a magnetita, ímã natural que atrai o ferro.
 magnetismo terrestre
 O planeta Terra é considerado um grande ímã, dividido em dois polos (norte e sul), assemelhando-se a propriedade de dipolo magnético. Essa descoberta foi feita no século XVI, a partir das pesquisas do físico inglês William Gilbert. Note que o polo norte é o campo magnético que sempre atrai a bússola, o que explica que a Terra comporta-se como um grande ímã que exerce força de atração na direção norte.
-o que é força magnética?
+força magnética
 Na física, a Força magnética, também chamada de Força de Lorentz, representa a força de atração e/ou repulsão exercida pelos ímãs ou objetos magnéticos.
-o que é campo magnético?
+campo magnético
 O campo magnético representa um espaço onde existe uma concentração de magnetismo criado em torno das cargas magnéticas. Já o chamado campo eletromagnético é o local onde existe uma concentração das cargas elétricas e magnéticas.
 força magnética sobre cargas elétricas
 As cargas elétricas em movimento atuam dentro de um campo magnético. Assim, quando uma carga elétrica está em movimento dentre de um campo magnético, ele terá uma força magnética atuando sobre ela.

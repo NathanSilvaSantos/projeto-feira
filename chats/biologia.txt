@@ -1,16 +1,16 @@
-o que é microbiologia?
+microbiologia
 A microbiologia é o ramo da Biologia que estuda os microrganismos.
-o que são microrganismos?
+microrganismos
 Os microrganismos são seres vivos de tamanho pequeno, cujas dimensões não permitem que sejam observados a olho nu pelo homem. Assim, eles só podem ser visualizados ao microscópio.
-com o que os microrganismos contribuem?
+como os microrganismos podem contribuir?
 De modo geral, os microrganismos contribuem na fertilização do solo, reciclagem de substâncias e participam de ciclos biogeoquímicos. Ainda podem ser usados na fabricação de produtos como iogurte, vinhos, queijos, vinagres e pães.
-o que é ecologia?
+ecologia
 A Ecologia é a parte da Biologia que estuda as relações dos seres vivos entre si e destes com o meio. O termo, que foi usado pela primeira vez em 1866 por Ernest Haeckel, vem da junção de duas palavras gregas: Oikos, que significa casa, e logos, que quer dizer estudo. Assim sendo, ecologia significa o “estudo da casa” ou o “estudo do habitat dos seres vivos”.
 com o que a ecologia se preocupa?
 a Ecologia preocupa-se com o entendimento do funcionamento de toda a natureza. Assim como vários outros campos de estudo da Biologia, ela não é uma ciência isolada. Para entendê-la, é necessário, por exemplo, conhecer um pouco de Evolução, Genética, Biologia Molecular, Fisiologia e Anatomia.
-o que é a autoecologia?
+autoecologia
 Na autoecologia, o estudo volta-se para uma determinada espécie ou indivíduo, analisando-se, principalmente, seu comportamento e os mecanismos adaptativos que garantem a sua sobrevivência em determinado meio.
-o que faz a sinecologia?
+sinecologia
 A sinecologia faz uma análise ampla, analisando grupos de organismos que interagem entre si e com o meio.
 população
 Conjunto de organismos de uma mesma espécie que vivem juntos em uma determinada área e apresentam maiores chances de reproduzir-se entre si do que com outros indivíduos de outras populações.
@@ -22,38 +22,15 @@ Biosfera
 Nível mais amplo e autossuficiente que corresponde a todos os seres vivos do planeta, abarcando as relações deles entre si e com o meio ambiente. Independente do nível de organização estudado, compreender o meio em que o organismo vive é essencial no estudo da ecologia. Assim sendo, ao escolher uma espécie para análise, os ecólogos preocupam-se em conhecer seu habitat e seu nicho ecológico, ou seja, o local onde a espécie vive e seu papel naquela comunidade.
 por que é importante estudar Ecologia?
 Ao estudar a Ecologia, os ecólogos conseguem visualizar de maneira clara como as espécies interagem entre si e conseguem coexistir em determinado ambiente, além de conseguir informações para a compreensão dos motivos que levam uma espécie a viver em uma área e a ausentar-se de outros locais. Também é possível compreender como uma espécie é capaz de influenciar uma determinada comunidade e os impactos gerados por ela. Por meio dessas análises, é possível fazer previsões a respeito do futuro de determinadas espécies e as consequências das mudanças nos padrões de uma comunidade.
-o que são relações ecológicas?
+relações ecológicas
 As relações ecológicas são interações entre os seres vivos que vivem em um determinado ambiente. Essas interações podem trazer benefícios ou não para os envolvidos.
-o que é evolução
+evolução
 Evolução é o processo através do qual ocorrem as mudanças ou transformações nos seres vivos ao longo do tempo, dando origem a espécies novas.A evolução tem suas bases fortemente corroboradas pelo estudo comparativo dos organismos, sejam fósseis ou atuais.
-o que é homologia?
+homologia
 Por homologia entende-se semelhança entre estruturas de diferentes organismos, devida unicamente a uma mesma origem embriológica. As estruturas homólogas podem exercer ou não a mesma função. O braço do homem, a pata do cavalo, a asa do morcego e a nadadeira da baleia são estruturas homólogas entre si, pois todas têm a mesma origem embriológica.
-o que é analogia?
+analogia
 Refere-se à semelhança morfológica entre estruturas, em função de adaptação à execução da mesma função. As asas dos insetos e das aves são estruturas diferentes quanto à origem embriológica, mas ambas estão adaptadas à execução de uma mesma função: o vôo. São, portanto, estruturas análogas.As estruturas análogas não refletem por si só qualquer grau de parentesco. Elas fornecem indícios da adaptação de estruturas de diferentes organismos a uma mesma variável ecológica. Quando organismos não intimamente aparentados apresentam estruturas semelhantes exercendo a mesma função, dizemos que eles sofreram evolução convergente.
-o que é evolução convergente?
+evolução convergente
 A evolução convergente ou convergência evolutiva é caracterizada pela adaptação de diferentes organismos a uma condição ecológica igual, assim, as formas do corpo do golfinho, dos peixes, especialmente tubarões, e de um réptil fóssil chamado ictiossauro são bastante semelhantes, adaptadas à natação. Neste caso, a semelhança não é sinal de parentesco, mas resultado da adaptação desses organismos ao ambiente aquático.
-o que é irradiação adaptativa?
+irradiação adaptativa
 Ela é caracterizada pela diferenciação de organismos a partir de um ancestral comum dando origem a vários grupos diferentes adaptados a explorar ambientes diferentes.
-o que é genética?
-A Genética é a parte da Biologia que estuda a hereditariedade, ou seja, a forma como as características são repassadas de geração para geração. Considera-se que essa ciência iniciou-se com os experimentos e leis propostas por um monge chamado Gregor Mendel, em um trabalho publicado em 1866.
-o que os avanços genéticos tornam possível?
-O avanço da Genética modificou completamente o mundo atual, tornando possível, por exemplo, criar clones, alimentos transgênicos resistentes às pragas, realizar testes de paternidade e solucionar crimes, mapear doenças e realizar aconselhamento genético.
-quem foi Mendel?
-Conhecido como pai da genética, Gregor Johann Mendel nasceu onde atualmente é a República Tcheca. Entrou para o mosteiro ainda jovem, e lá aprendeu ciências agrárias e várias técnicas de polinização artificial, que permitia o cruzamento de várias espécies de plantas. Com seus experimentos, Mendel descobriu e respondeu a várias questões sobre hereditariedade.
-o que é clonagem?
-A clonagem é um processo de reprodução assexuada onde se tem a produção de indivíduos geneticamente iguais a partir de uma célula-mãe.
-o que é engenharia genética?
-A engenharia genética é a área da biologia responsável pela manipulação das moléculas de DNA, e foi no ano de 1971 que o biólogo norte-americano Paul Berg, da Universidade de Stanford, Califórnia, obteve a primeira molécula de DNA recombinada, resultado da inserção do DNA de um vírus oncogênico, produtor de tumores em macacos, no DNA de um bacteriófago, vírus que ataca bactérias. Tais estudos levaram o biólogo a ganhar, em 1980, o Prêmio Nobel.
-qual foi o primeiro mamífero clonado?
-Em julho de 1996 nasceu o primeiro mamífero clonado, batizado de Dolly. Esse projeto gerou inúmeras reações contrárias e favoráveis à sua realização, e inúmeros países, inclusive o Brasil, estabeleceram medidas jurídicas para impedir que esse processo fosse utilizado em humanos.
-como surgiram os transgênicos?
-Na busca incessante por aumento de produção, ascensão dos lucros, diminuição dos custos e por poder competir em um mercado cada vez mais exigente e competitivo, o homem colocou sua capacidade intelectual em favor do desenvolvimento de pesquisas e estudos na intenção de alcançar melhorias na rentabilidade agrícola. Nesse sentido, foram desenvolvidos os transgênicos, que correspondem a organismos que detêm em sua essência genes de outros organismos, que é possível por meio da Engenharia Genética. O objetivo maior é a busca de aprimoramento de um produto que possui características novas em relação àquelas que fazem parte de sua natureza original para gerar um produto capaz de obter aspectos mais rústicos e de extrema produtividade. As técnicas de manipular DNA recombinante ocorrem desde a década de 70.
-transgênicos oferecem riscos?
-Apesar de aparentemente não oferecer nenhum tipo de risco, a manipulação de genes pode ocasionar sérias complicações, tendo em vista que se conhece muito pouco acerca desse assunto, pois as pesquisas nesse sentido existem somente há, aproximadamente, três décadas. Desse modo, não se sabe ao certo quais são as reações e consequências que podem ocorrer se um organismo que recebe um gene estranho desenvolver uma rejeição proveniente da complexidade dos seres vivos. Isso é uma realidade, pois já foi constato em porcos modificados geneticamente que para ganhar peso receberam genes de outros organismos e contraíram artrite e outras complicações em seu estado clínico.
-o que é aconselhamento genético?
-O aconselhamento genético consiste em verificar a probabilidade de uma doença genética ocorrer em uma família. Além disso, pode orientar casais que pensam em ter filhos, mas apresentam grande probabilidade de transmitirem alguma patologia ou malformação. Através do aconselhamento, é possível observar essas probabilidades, bem como as consequências para o bebê e para a família, ajudando assim nas decisões a respeito do futuro reprodutivo de um casal.
-para quem é indicado o aconselhamento genético?
-Normalmente o aconselhamento genético é indicado para pessoas com histórico de câncer ou doenças degenerativas em parentes próximos. Para quem pretende ter filhos, é indicado para casais com idade avançada, portadores de alguma doença genética ou com filhos que possuem malformações e/ou anomalias.  Também é importante que casais que apresentam laços familiares, como primos, realizem exames. Em casos de aborto de repetição e infertilidade, também é fundamental o aconselhamento.
-quais as etapas do aconselhamento genético?
-O aconselhamento genético possui algumas etapas. Primeiramente, o paciente ou o casal será submetido a uma série de perguntas a fim de averiguar os reais riscos de alguma doença genética e/ou hereditária. Essas perguntas serão fundamentais para se conhecer o histórico familiar de cada um. Normalmente é uma fase muito demorada, pois uma grande quantidade de informação deve ser colhida. Após esse momento, serão realizados exames físicos. Por fim, serão feitos alguns exames complementares, como o de cariótipo.
-
